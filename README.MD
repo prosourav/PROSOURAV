@@ -81,7 +81,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/prosourav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=prosourav">
 </a>
 <a href="https://github.com/prosourav?tab=followers"><img src="https://img.shields.io/github/followers/prosourav?label=Followers&style=social" alt="GitHub Badge"></a>
