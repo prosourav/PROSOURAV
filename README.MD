@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Mern project Happy Housing](https://happyhousing-10aab.web.app//)** -->
-- 🔭 I’m currently working on **[MERN Stack]**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Node js, Devops Tools**
 
