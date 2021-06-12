@@ -8,9 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mern project Happy Housing](https://happyhousing-10aab.web.app//)**
+<!-- - 🔭 I’m currently working on **[Mern project Happy Housing](https://happyhousing-10aab.web.app//)** -->
+- 🔭 I’m currently working on **[MERN Stack]**
 
-- 🌱 I’m currently learning **Devops Tools**
+- 🌱 I’m currently learning **Node js, Devops Tools**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **prosourav49@gmail.com**
 
-- ⚡ Fun fact **I like to travel and watch football games.**
+- ⚡ Fun fact **I like to travel and play football.**
 
 ## 🚀 Languages and Tools:
 
