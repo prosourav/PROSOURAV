@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://souravsaha.netlify.app/)**
 
-- 📫 How to reach me **prosourav49@gmail.com**
+- 📫 How to reach me **dev.souravsaha@gmail.com**
 
 - ⚡ Fun fact **I like to travel and play football.**
 
