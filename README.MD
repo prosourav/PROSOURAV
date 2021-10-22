@@ -1,19 +1,18 @@
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <!-- <a href="#" style="margin-left:28% ;"><img width="50%" height="60%" style="margin-left:28% ;" src="https://i.ibb.co/JFNMFDS/4884785.jpg" height="100px" width="300px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sourav</h1>
 <h3 align="center">I'm a passionate Mern Stack Developer from India.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Mern project Happy Housing](https://happyhousing-10aab.web.app//)** -->
+
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Node js, Devops Tools**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://souravsaha.netlify.app/)**
 
@@ -46,7 +45,6 @@
    
 </p>
 
-
 <br/>
 
 <p align="center">
@@ -63,7 +61,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -73,16 +70,19 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prosourav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/prosouravhere"><img src="https://img.icons8.com/plasticine/48/ffffff/facebook-new.png"/></a>
-<a href = "https://stackoverflow.com/users/15546344/sourav-saha/"><img src="https://img.icons8.com/color/48/ffffff/stackoverflow.png"/></a>
 
+<!-- <a href = "https://www.facebook.com/prosouravhere"><img src="https://img.icons8.com/plasticine/48/ffffff/facebook-new.png"/></a> -->
+
+<a href = "https://stackoverflow.com/users/15546344/sourav-saha/"><img src="https://img.icons8.com/color/48/ffffff/stackoverflow.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/prosourav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=prosourav">
 </a>
