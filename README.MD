@@ -74,10 +74,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prosourav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<!-- <a href = "https://www.facebook.com/prosouravhere"><img src="https://img.icons8.com/plasticine/48/ffffff/facebook-new.png"/></a> -->
-
 <a href = "https://stackoverflow.com/users/15546344/sourav-saha/"><img src="https://img.icons8.com/color/48/ffffff/stackoverflow.png"/></a>
+<a href = "https://www.facebook.com/"><img src="https://img.icons8.com/plasticine/48/ffffff/facebook-new.png"/></a>
 
 </p>
 
